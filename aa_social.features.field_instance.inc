@@ -42,11 +42,11 @@ function aa_social_field_default_field_instances() {
       'default_image' => 0,
       'epsacrop' => array(
         'styles' => array(
-          'preview-breakpoints_theme_aa_theme_mobile_1x' => 0,
-          'preview-breakpoints_theme_aa_theme_normal_1x' => 0,
+          'project_preview_breakpoints_theme_aa_theme_mobile_1x' => 0,
+          'project_preview_breakpoints_theme_aa_theme_normal_1x' => 0,
         ),
       ),
-      'file_directory' => 'images/links',
+      'file_directory' => 'images/social',
       'file_extensions' => 'png gif jpg jpeg',
       'max_filesize' => '',
       'max_resolution' => '',
