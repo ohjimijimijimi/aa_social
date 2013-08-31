@@ -45,3 +45,4 @@ features[variable][] = node_submitted_social
 features[views_view][] = social
 features_exclude[dependencies][breakpoints] = breakpoints
 features_exclude[dependencies][ctools] = ctools
+project path = sites/all/modules/features
